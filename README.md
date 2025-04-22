@@ -2,6 +2,11 @@
 
 A simple Spring Boot REST API for a basic banking application. This project demonstrates core Spring Boot concepts with a clean, minimal implementation.
 
+## Live Demo
+This API is deployed and accessible at: bankingjava-production.up.railway.app
+
+Try it out using the endpoints documented below!
+
 ## Features
 
 - Account management (create and view accounts)
